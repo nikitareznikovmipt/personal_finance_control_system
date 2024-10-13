@@ -8,6 +8,11 @@ authors = ["Nikita Reznikov <reznikov.na@phystech.edu>"]
 python = "~3.9"
 fastapi = "^0.115.2"
 uvicorn = "^0.31.1"
+sqlalchemy = "^2.0.35"
+alembic = "^1.13.3"
+asyncpg = "^0.29.0"
+pydantic = "^2.9.2"
+pydantic-settings = "^2.5.2"
 
 
 [build-system]
